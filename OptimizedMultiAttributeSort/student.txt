@@ -1,0 +1,6 @@
+thamid,bsse0801,21,dhaka,bsse0801@iit.du.ac.bd,100.00
+jamil,bsse0802,22,chittagong,bsse0802@iit.du.ac.bd,120.0
+thalil,bsse0803,21,savar,bsse0803@iit.du.ac.bd,99.99
+ibrahim,bsse0804,22,keshorgonj,bsse0804@iit.du.ac.bd,98
+mahir,bsse0807,23,rajshahi,bsse0807@iit.du.ac.bd,150.00
+toukir,bsse0806,21,shoriotput,bsse0806@iit.du.ac.bd,200.00
